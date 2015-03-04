@@ -47,5 +47,4 @@ export GRADLE_HOME
 PATH=$GRADLE_HOME/bin:$PATH
 
 
-
 export PATH
