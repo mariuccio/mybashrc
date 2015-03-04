@@ -46,5 +46,4 @@ GRADLE_HOME=$HOME/Work/lib/gradle-2.3
 export GRADLE_HOME
 PATH=$GRADLE_HOME/bin:$PATH
 
-
 export PATH
