@@ -37,12 +37,12 @@ alias fgrep='fgrep --color=auto'
 ###################################################
 
 # Java 8
-JAVA_HOME=$HOME/Work/lib/jdk1.8.0_31
+JAVA_HOME=$HOME/Work/tools/jdk1.8.0_31
 export JAVA_HOME
 PATH=$JAVA_HOME/bin:$PATH
 
 # Gradle
-GRADLE_HOME=$HOME/Work/lib/gradle-2.3
+GRADLE_HOME=$HOME/Work/tools/gradle-2.3
 export GRADLE_HOME
 PATH=$GRADLE_HOME/bin:$PATH
 
