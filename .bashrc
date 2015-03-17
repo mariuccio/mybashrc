@@ -49,4 +49,12 @@ PATH=$GRADLE_HOME/bin:$PATH
 # IntelliJ IDEA
 PATH=$HOME/Work/tools/idea-IC-139.1117.1/bin:$PATH
 
+# Boost
+BOOST_ROOT=$HOME/Work/tools/boost_1_57_0
+CPLUS_INCLUDE_PATH=$BOOST_ROOT
+
+# SimGrid
+SIMGRID_ROOT=$HOME/Work/tools/SimGrid-3.11
+
+export CPLUS_INCLUDE_PATH
 export PATH
